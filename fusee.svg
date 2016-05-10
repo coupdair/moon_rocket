@@ -41,8 +41,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="204.02488"
-     inkscape:cy="938.88775"
+     inkscape:cx="346.15527"
+     inkscape:cy="940.54554"
      inkscape:document-units="px"
      inkscape:current-layer="g3777"
      showgrid="false"
@@ -67,7 +67,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="drawing"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <image
        y="21.85581"
@@ -219,5 +219,15 @@
        sodipodi:ry="16.473215"
        d="m 232.67858,153.12111 a 4.3303571,16.473215 0 1 1 -8.66072,0 4.3303571,16.473215 0 1 1 8.66072,0 z"
        transform="matrix(7.5952538,0,0,1.9965838,-1497.2092,-206.46971)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#ff0000;stroke-width:0.00628678;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:7.0545"
+       id="path3792"
+       sodipodi:cx="269.64758"
+       sodipodi:cy="150.86417"
+       sodipodi:rx="2.3991122"
+       sodipodi:ry="15.089153"
+       d="m 272.0467,150.86417 a 2.3991122,15.089153 0 1 1 -4.79823,0 2.3991122,15.089153 0 1 1 4.79823,0 z"
+       transform="matrix(14.152381,0,0,2.250173,-3504.9998,-242.78468)" />
   </g>
 </svg>
