@@ -40,11 +40,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="518.85639"
-     inkscape:cy="1002.9414"
+     inkscape:zoom="3.959798"
+     inkscape:cx="329.62848"
+     inkscape:cy="962.53532"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="982"
@@ -81,7 +81,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="body"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        sodipodi:nodetypes="cccccccccc"
@@ -94,7 +94,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="plane"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        id="path3697"
