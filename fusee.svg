@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="fusee.svg">
   <defs
      id="defs4">
@@ -40,14 +40,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="100.70254"
-     inkscape:cy="900.06632"
+     inkscape:zoom="15.839192"
+     inkscape:cx="101.49643"
+     inkscape:cy="897.54094"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1124"
+     inkscape:window-width="2560"
+     inkscape:window-height="982"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1" />
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,14 +67,15 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="drawing"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:inline">
     <image
        y="21.85581"
        x="24.506104"
        id="image2886"
        height="174.04799"
        width="561.12"
-       xlink:href="file:///home/coudert/personnel/Matthieu/anniversaire/2016/fusee/fusee.png" />
+       xlink:href="file:///home/xubuntu/Matthieu/anniversaire/2016/fusee/fusee.png" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -87,8 +88,10 @@
      style="display:inline">
     <path
        id="path3697"
-       d="m 43.070679,169.6997 395.081391,-1e-5 -0.68235,-1e-5"
-       style="fill:none;stroke:#000000;stroke-width:0.03472644;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+       d="m 43.070679,169.6997 395.081391,-1e-5 0.12787,-5.07219 36.11295,-9.91212 0,-4.48255 -125.19578,-10.60661 -47.3509,-2.96732 -82.89565,0 -85.67356,9.59645 z"
+       style="fill:none;stroke:#000000;stroke-width:0.03472644;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
