@@ -60,7 +60,7 @@
   <Data type="string" id="40">%1</Data>
   <Data type="string" id="41">%1</Data>
   <Data type="string" id="42">%1</Data>
-  <Data type="double" id="43">0.900427</Data>
+  <Data type="double" id="43">0.876918</Data>
   <Data type="double" id="44">16</Data>
   <Data type="double" id="45">9.6</Data>
   <Data type="string" id="46">%1</Data>
@@ -321,77 +321,120 @@
    <Parent id="129"/>
    <Parent id="125"/>
   </Object>
-  <Object type="LinePerpend" id="131">
+  <Object type="LineReflection" id="131">
+   <Parent id="130"/>
+   <Parent id="124"/>
+  </Object>
+  <Object type="LinePerpend" id="132">
    <Parent id="127"/>
    <Parent id="129"/>
   </Object>
-  <Object type="ConicLineIntersection" id="132">
+  <Object type="ConicLineIntersection" id="133">
    <Parent id="114"/>
-   <Parent id="131"/>
+   <Parent id="132"/>
    <Parent id="64"/>
   </Object>
-  <Object type="SegmentAB" id="133">
-   <Parent id="132"/>
+  <Object type="SegmentAB" id="134">
+   <Parent id="133"/>
    <Parent id="129"/>
   </Object>
-  <Object type="ConicLineIntersection" id="134">
-   <Parent id="114"/>
-   <Parent id="131"/>
-   <Parent id="25"/>
-  </Object>
   <Object type="LineReflection" id="135">
-   <Parent id="91"/>
+   <Parent id="134"/>
    <Parent id="124"/>
   </Object>
   <Object type="ConicLineIntersection" id="136">
+   <Parent id="114"/>
+   <Parent id="132"/>
+   <Parent id="25"/>
+  </Object>
+  <Object type="LineReflection" id="137">
+   <Parent id="91"/>
+   <Parent id="124"/>
+  </Object>
+  <Object type="ConicLineIntersection" id="138">
    <Parent id="89"/>
    <Parent id="124"/>
    <Parent id="62"/>
   </Object>
-  <Object type="ConicLineIntersection" id="137">
+  <Object type="ConicLineIntersection" id="139">
    <Parent id="89"/>
    <Parent id="124"/>
    <Parent id="5"/>
   </Object>
-  <Object type="RayAB" id="138">
+  <Object type="RayAB" id="140">
    <Parent id="88"/>
-   <Parent id="137"/>
+   <Parent id="139"/>
   </Object>
-  <Object type="Angle" id="139">
+  <Object type="Angle" id="141">
    <Parent id="90"/>
    <Parent id="88"/>
-   <Parent id="137"/>
+   <Parent id="139"/>
   </Object>
-  <Object type="RelativePoint" id="140">
+  <Property which="angle-bisector" id="142">
+   <Parent id="141"/>
+  </Property>
+  <Object type="LineReflection" id="143">
+   <Parent id="134"/>
+   <Parent id="142"/>
+  </Object>
+  <Object type="LineReflection" id="144">
+   <Parent id="143"/>
+   <Parent id="124"/>
+  </Object>
+  <Object type="LineReflection" id="145">
+   <Parent id="130"/>
+   <Parent id="142"/>
+  </Object>
+  <Object type="LineReflection" id="146">
+   <Parent id="145"/>
+   <Parent id="124"/>
+  </Object>
+  <Object type="LineReflection" id="147">
+   <Parent id="135"/>
+   <Parent id="142"/>
+  </Object>
+  <Object type="LineReflection" id="148">
+   <Parent id="147"/>
+   <Parent id="124"/>
+  </Object>
+  <Object type="LineReflection" id="149">
+   <Parent id="131"/>
+   <Parent id="142"/>
+  </Object>
+  <Object type="LineReflection" id="150">
+   <Parent id="149"/>
+   <Parent id="124"/>
+  </Object>
+  <Object type="RelativePoint" id="151">
    <Parent id="24"/>
    <Parent id="86"/>
-   <Parent id="139"/>
-  </Object>
-  <Property which="angle-degrees" id="141">
-   <Parent id="139"/>
-  </Property>
-  <Object type="Label" id="142">
-   <Parent id="22"/>
-   <Parent id="140"/>
-   <Parent id="7"/>
    <Parent id="141"/>
   </Object>
-  <Object type="CircleBPR" id="143">
+  <Property which="angle-degrees" id="152">
+   <Parent id="141"/>
+  </Property>
+  <Object type="Label" id="153">
+   <Parent id="22"/>
+   <Parent id="151"/>
+   <Parent id="7"/>
+   <Parent id="152"/>
+  </Object>
+  <Object type="CircleBPR" id="154">
    <Parent id="88"/>
    <Parent id="65"/>
   </Object>
-  <Object type="ConstrainedPoint" id="144">
+  <Object type="ConstrainedPoint" id="155">
    <Parent id="58"/>
-   <Parent id="143"/>
+   <Parent id="154"/>
   </Object>
-  <Object type="RelativePoint" id="145">
+  <Object type="RelativePoint" id="156">
    <Parent id="111"/>
    <Parent id="6"/>
-   <Parent id="144"/>
+   <Parent id="155"/>
   </Object>
-  <Object type="Label" id="146">
+  <Object type="Label" id="157">
    <Parent id="63"/>
-   <Parent id="145"/>
+   <Parent id="156"/>
    <Parent id="55"/>
    <Parent id="1"/>
   </Object>
@@ -401,50 +444,61 @@
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="52"/>
   <Draw width="-1" namecalcer="117" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="115"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="65"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="136"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="138"/>
   <Draw width="-1" namecalcer="67" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="93"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="132"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="135"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="133"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="137"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="125"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="85"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="77"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="148"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="127"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="126"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="143"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="129"/>
-  <Draw width="-1" namecalcer="1" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="144"/>
+  <Draw width="-1" namecalcer="1" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="155"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="92"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="88"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="144"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="89"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="131"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="123"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="122"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="113"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="96"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="147"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="124"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="143"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="134"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="154"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="136"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="100"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="83"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="150"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="105"/>
   <Draw width="-1" namecalcer="57" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="101"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="137"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="90"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="146"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="139"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="90"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="157"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="141"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="95"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="146"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="107"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="114"/>
   <Draw width="-1" namecalcer="9" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="97"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="131"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="132"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="130"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="91"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="106"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="149"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="135"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="103"/>
   <Draw width="-1" namecalcer="2" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="108"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="128"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="71"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="138"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="145"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="140"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="118"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="133"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="134"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="153"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="142"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Droid Sans,10,-1,5,50,0,0,0,0,0" object="121"/>
  </View>
