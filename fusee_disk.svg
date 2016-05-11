@@ -100,23 +100,6 @@
      font-weight="400"
      font-size="10" />
   <g
-     style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
-     id="g26"
-     font-style="normal"
-     font-weight="400"
-     font-size="10"
-     transform="matrix(0.08911622,0,0,0.08911622,528.09966,756.87721)">
-    <text
-       style="font-size:10px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Droid Sans"
-       id="text28"
-       font-style="normal"
-       font-weight="400"
-       font-size="10"
-       y="554"
-       x="63"
-       xml:space="preserve">8.4</text>
-  </g>
-  <g
      style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Droid Sans"
      id="g30"
      font-style="normal"
@@ -135,23 +118,6 @@
        id="path34"
        d="m 994,212 c 0,1.657 -1.343,3 -3,3 -1.657,0 -3,-1.343 -3,-3 0,-1.657 1.343,-3 3,-3 1.657,0 3,1.343 3,3"
        vector-effect="none" />
-  </g>
-  <g
-     style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
-     id="g36"
-     font-style="normal"
-     font-weight="400"
-     font-size="10"
-     transform="matrix(0.08911622,0,0,0.08911622,528.09966,756.87721)">
-    <text
-       style="font-size:10px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Droid Sans"
-       id="text38"
-       font-style="normal"
-       font-weight="400"
-       font-size="10"
-       y="632"
-       x="60"
-       xml:space="preserve">9.6</text>
   </g>
   <g
      style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
@@ -186,45 +152,11 @@
      font-weight="400"
      font-size="10" />
   <g
-     style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
-     id="g74"
-     font-style="normal"
-     font-weight="400"
-     font-size="10"
-     transform="matrix(0.08911622,0,0,0.08911622,528.09966,756.87721)">
-    <text
-       style="font-size:10px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Droid Sans"
-       id="text76"
-       font-style="normal"
-       font-weight="400"
-       font-size="10"
-       y="528"
-       x="229"
-       xml:space="preserve">120</text>
-  </g>
-  <g
      style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Droid Sans"
      id="g78"
      font-style="normal"
      font-weight="400"
      font-size="10" />
-  <g
-     style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
-     id="g80"
-     font-style="normal"
-     font-weight="400"
-     font-size="10"
-     transform="matrix(0.08911622,0,0,0.08911622,528.09966,756.87721)">
-    <text
-       style="font-size:10px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Droid Sans"
-       id="text82"
-       font-style="normal"
-       font-weight="400"
-       font-size="10"
-       y="716"
-       x="63"
-       xml:space="preserve">18.4</text>
-  </g>
   <g
      style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
      id="g84"
@@ -415,23 +347,6 @@
      font-weight="400"
      font-size="10" />
   <g
-     style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
-     id="g170"
-     font-style="normal"
-     font-weight="400"
-     font-size="10"
-     transform="matrix(0.08911622,0,0,0.08911622,528.09966,756.87721)">
-    <text
-       style="font-size:10px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Droid Sans"
-       id="text172"
-       font-style="normal"
-       font-weight="400"
-       font-size="10"
-       y="516"
-       x="60"
-       xml:space="preserve">6.8</text>
-  </g>
-  <g
      style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Droid Sans"
      id="g174"
      font-style="normal"
@@ -507,23 +422,6 @@
   </g>
   <g
      style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
-     id="g204"
-     font-style="normal"
-     font-weight="400"
-     font-size="10"
-     transform="matrix(0.08911622,0,0,0.08911622,528.09966,756.87721)">
-    <text
-       style="font-size:10px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Droid Sans"
-       id="text206"
-       font-style="normal"
-       font-weight="400"
-       font-size="10"
-       y="596"
-       x="60"
-       xml:space="preserve">9.3</text>
-  </g>
-  <g
-     style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
      id="g208"
      font-style="normal"
      font-weight="400"
@@ -580,23 +478,6 @@
      font-style="normal"
      font-weight="400"
      font-size="10" />
-  <g
-     style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
-     id="g226"
-     font-style="normal"
-     font-weight="400"
-     font-size="10"
-     transform="matrix(0.08911622,0,0,0.08911622,528.09966,756.87721)">
-    <text
-       style="font-size:10px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Droid Sans"
-       id="text228"
-       font-style="normal"
-       font-weight="400"
-       font-size="10"
-       y="640"
-       x="233"
-       xml:space="preserve">1.5</text>
-  </g>
   <g
      style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1;font-family:Droid Sans"
      id="g230"
@@ -755,23 +636,6 @@
   </g>
   <g
      style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
-     id="g312"
-     font-style="normal"
-     font-weight="400"
-     font-size="10"
-     transform="matrix(0.08911622,0,0,0.08911622,528.09966,756.87721)">
-    <text
-       style="font-size:10px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Droid Sans"
-       id="text314"
-       font-style="normal"
-       font-weight="400"
-       font-size="10"
-       y="676"
-       x="60"
-       xml:space="preserve">19.3</text>
-  </g>
-  <g
-     style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
      id="g316"
      font-style="normal"
      font-weight="400"
@@ -825,23 +689,6 @@
        id="polyline334"
        points="746,310 593,222 "
        vector-effect="none" />
-  </g>
-  <g
-     style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
-     id="g336"
-     font-style="normal"
-     font-weight="400"
-     font-size="10"
-     transform="matrix(0.08911622,0,0,0.08911622,528.09966,756.87721)">
-    <text
-       style="font-size:10px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Droid Sans"
-       id="text338"
-       font-style="normal"
-       font-weight="400"
-       font-size="10"
-       y="556"
-       x="236"
-       xml:space="preserve">16</text>
   </g>
   <g
      style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
