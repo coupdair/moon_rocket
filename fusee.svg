@@ -40,9 +40,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="182.56535"
-     inkscape:cy="906.63464"
+     inkscape:zoom="11.2"
+     inkscape:cx="189.84463"
+     inkscape:cy="958.63976"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="false"
@@ -133,16 +133,6 @@
      id="layer6"
      inkscape:label="round"
      style="display:inline">
-    <path
-       sodipodi:type="arc"
-       style="fill:none;stroke:#ff0000;stroke-width:0.00618575;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:7.0545;display:inline"
-       id="path3788"
-       sodipodi:cx="182.58507"
-       sodipodi:cy="154.58911"
-       sodipodi:rx="1.767767"
-       sodipodi:ry="15.152288"
-       d="m 184.35283,154.58911 a 1.767767,15.152288 0 1 1 -3.53553,0 1.767767,15.152288 0 1 1 3.53553,0 z"
-       transform="matrix(16.801521,0,0,1.960177,-2894.9788,-213.03722)" />
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#ff0000;stroke-width:0.00911427;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:7.0545;display:inline"
@@ -513,7 +503,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)">
       <path
          inkscape:connector-curvature="0"
          id="path202"
@@ -587,20 +577,6 @@
        font-weight="400"
        font-size="10"
        transform="translate(-408.99783,-586.06855)" />
-    <g
-       style="font-size:10px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
-       id="g232"
-       font-style="normal"
-       font-weight="400"
-       font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
-      <path
-         style="fill-rule:evenodd;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:connector-curvature="0"
-         id="path234"
-         d="m 1017,153 c 0,1.657 -1.34,3 -3,3 -1.66,0 -3,-1.343 -3,-3 0,-1.657 1.34,-3 3,-3 1.66,0 3,1.343 3,3"
-         vector-effect="none" />
-    </g>
     <g
        style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
        id="g240"
@@ -745,23 +721,6 @@
          id="polyline322"
          points="948,198 948,262 "
          vector-effect="none" />
-    </g>
-    <g
-       style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
-       id="g324"
-       font-style="normal"
-       font-weight="400"
-       font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
-      <text
-         style="font-size:10px;font-style:normal;font-weight:400;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Droid Sans"
-         id="text326"
-         font-style="normal"
-         font-weight="400"
-         font-size="10"
-         y="168"
-         x="989"
-         xml:space="preserve">7c</text>
     </g>
     <g
        style="font-size:10px;font-style:normal;font-weight:400;fill:none;stroke:#0000ff;stroke-width:0.39739582;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Droid Sans"
@@ -986,7 +945,7 @@
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)"
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -999,7 +958,7 @@
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)"
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1012,7 +971,7 @@
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)"
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1025,7 +984,7 @@
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)"
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1038,7 +997,7 @@
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)"
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1051,7 +1010,7 @@
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)"
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1064,7 +1023,7 @@
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)"
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1077,7 +1036,7 @@
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)"
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1090,7 +1049,7 @@
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)"
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1103,7 +1062,7 @@
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)"
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1116,7 +1075,7 @@
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)"
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1129,7 +1088,7 @@
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)"
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)"
        font-size="10"
        font-weight="400"
        font-style="normal"
@@ -1147,7 +1106,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)">
       <polyline
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline6535"
@@ -1160,7 +1119,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)">
       <polyline
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline6539"
@@ -1173,7 +1132,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)">
       <polyline
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline6543"
@@ -1186,7 +1145,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)">
       <polyline
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline6547"
@@ -1199,7 +1158,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)">
       <polyline
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline6551"
@@ -1212,7 +1171,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)">
       <polyline
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline6555"
@@ -1225,7 +1184,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)">
       <polyline
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline6559"
@@ -1238,7 +1197,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)">
       <polyline
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline6563"
@@ -1251,7 +1210,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)">
       <polyline
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline6567"
@@ -1264,7 +1223,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)">
       <polyline
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline6571"
@@ -1277,7 +1236,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)">
       <polyline
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline6575"
@@ -1290,7 +1249,7 @@
        font-style="normal"
        font-weight="400"
        font-size="10"
-       transform="matrix(0.08911622,0,0,0.08911622,-26.72432,182.26193)">
+       transform="matrix(0.08911622,0,0,0.08911622,95.27568,50.26193)">
       <polyline
          style="fill:none;stroke-width:0.39739582;stroke-miterlimit:4;stroke-dasharray:none"
          id="polyline6579"
@@ -1673,14 +1632,14 @@
     <text
        xml:space="preserve"
        style="font-size:6px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="188.78569"
-       y="77.219322"
+       x="170.39284"
+       y="93.737183"
        id="text3818"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3820"
-         x="188.78569"
-         y="77.219322">7c</tspan></text>
+         x="170.39284"
+         y="93.737183">7c</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
