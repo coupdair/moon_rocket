@@ -1,0 +1,14 @@
+inkscape fusee.svg &
+#show slice patch 1, then hide
+#print to file as PDF
+mv output.pdf fusee_papier_recto.pdf
+#show slice patch 2, then hide
+#print to file as PDF
+mv output.pdf fusee_papier_verso.pdf
+
+pdfflip fusee_papier_verso.pdf -o fusee_papier_verso_flip.pdf
+pdfjoin fusee_papier_recto.pdf fusee_papier_verso_flip.pdf -o fusee_papier_print.pdf
+
+evince fusee_papier_print.pdf &
+#print long-edge
+
