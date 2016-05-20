@@ -41,8 +41,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="242.71593"
+     inkscape:zoom="11.2"
+     inkscape:cx="97.601461"
      inkscape:cy="890.24081"
      inkscape:document-units="px"
      inkscape:current-layer="g3397"
@@ -145,7 +145,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="slice1 text"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
@@ -215,6 +215,36 @@
          y="149.86217">2c</tspan></text>
   </g>
   <g
+     style="display:none"
+     inkscape:label="slice1"
+     id="g4185"
+     inkscape:groupmode="layer">
+    <path
+       id="path4189"
+       d="m 133.33379,171.26652 0,-38.84138 -0.004,0"
+       style="fill:none;stroke:#000000;stroke-width:0.03682177;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.03682177;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 176.26804,171.26652 0,-38.84138 -0.004,0"
+       id="path4191" />
+    <path
+       id="path4193"
+       d="m 219.68773,171.26652 0,-38.84138 -0.004,0"
+       style="fill:none;stroke:#000000;stroke-width:0.03682177;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0368291;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 262.62553,171.26565 0,-38.85992 -0.004,0"
+       id="path4195" />
+    <path
+       id="path4197"
+       d="m 306.04167,171.26652 0,-38.84138 -0.004,0"
+       style="fill:none;stroke:#000000;stroke-width:0.03682177;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.03658132;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 349.33304,171.26664 0,-38.84162 -0.004,0"
+       id="path4199" />
+  </g>
+  <g
      inkscape:groupmode="layer"
      id="g3397"
      inkscape:label="plane1 slice"
@@ -251,7 +281,7 @@
        style="fill:none;stroke:#000000;stroke-width:0.03658132;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="plane1"
      id="g3769"
      inkscape:groupmode="layer"
