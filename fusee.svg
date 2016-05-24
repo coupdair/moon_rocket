@@ -42,10 +42,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="441.16151"
+     inkscape:cx="481.81696"
      inkscape:cy="940.77186"
      inkscape:document-units="px"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="g3945"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="719"
@@ -220,6 +220,18 @@
        id="path3399"
        sodipodi:nodetypes="cccscscsscccscccccccccccccccccc"
        inkscape:connector-curvature="0" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="flame"
+     id="g3945"
+     inkscape:groupmode="layer">
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccscscsscccscccccccccccccccsccc"
+       id="path3947"
+       d="m 564.875,23.875 c -11.81686,0.03473 -23.78646,1.301389 -35.78125,2.9375 -17.16766,3.675606 -34.8777,8.568916 -55.34375,19.3125 -42.99461,20.975864 -77.54355,52.377733 -104.40625,93.28125 -0.0492,0.0749 -0.10711,0.14378 -0.15625,0.21875 -14.47567,-0.92733 -30.61101,-2.09845 -43.15625,-2.75 -1.3756,-0.0714 -2.91083,-0.16144 -4.1875,-0.21875 -12.95454,-0.36318 -25.95414,-0.68679 -39.21875,-0.78125 -13.90581,-0.099 -28.1209,0.0597 -42.9375,0.75 -0.25175,0.0117 -0.4979,0.0192 -0.75,0.0312 -14.12269,0.75262 -28.1446,1.85137 -42.65625,3.46875 l -0.0312,0.0312 c -13.69671,1.52724 -27.81422,3.49706 -42.90625,6.09375 -0.0206,0.004 -0.0419,-0.004 -0.0625,0 -42.60286,8.17324 -55.817507,12.91264 -91.40625,23.4375 l 91.46875,0 42.9375,0 43.40625,0 42.9375,0 43.40625,0 43.3125,0 88.8125,0 36.25,0.002 0,-14.9703 0,-4.5 -6.375,-0.90625 C 520.00531,97.12877 550.96048,83.844971 581.0625,73.7817 l 0,-3.5625 c 15.6049,0.01632 23.38106,-10.710847 23.36792,-21.45742 -0.0131,-10.746574 -7.8156,-21.512549 -23.36792,-21.57383 l -0.15625,-2.5 C 575.60141,24.105177 570.2463,23.859212 564.875,23.875 z"
+       style="fill:none;stroke:#000000;stroke-width:0.03543307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
   </g>
   <g
      style="display:none"
