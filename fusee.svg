@@ -42,8 +42,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="319.52457"
-     inkscape:cy="889.5949"
+     inkscape:cx="305.70282"
+     inkscape:cy="842.73834"
      inkscape:document-units="px"
      inkscape:current-layer="g3915"
      showgrid="false"
@@ -318,22 +318,21 @@
        sodipodi:nodetypes="cccccccccccccc" />
   </g>
   <g
-     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="g3915"
-     inkscape:label="plane1 slice RED copy"
+     inkscape:label="plane1 slice RED mirror"
      style="display:inline">
     <path
        inkscape:connector-curvature="0"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.03543307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 349.3439,169.6874 88.8125,0 36.2499,0.002 1e-4,-19.4703 -6.375,-0.90625 C 500.00541,97.12877 530.96058,83.844971 561.0626,73.7817 l 0,-3.5625 c 31.20981,0.03265 31.10464,-42.908687 0,-43.03125 l -0.15625,-2.5 c -5.30489,-0.582323 -10.66,-0.828288 -16.0313,-0.8125 -11.81686,0.03473 -23.78646,1.301389 -35.78125,2.9375 -17.16766,3.675606 -34.8777,8.568916 -55.34375,19.3125 -42.99461,20.975864 -77.54355,52.377733 -104.40625,93.28125 -0.0492,0.0749 -0.10711,0.14378 -0.15625,0.21875 z"
+       d="m 349.3439,169.69883 88.8125,0 36.2499,-0.002 1e-4,19.4703 -6.375,0.90625 c 31.97401,52.18408 62.92918,65.46788 93.0312,75.53115 l 0,3.5625 c 31.20981,-0.0326 31.10464,42.90868 0,43.03125 l -0.15625,2.5 c -5.30489,0.58232 -10.66,0.82829 -16.0313,0.8125 -11.81686,-0.0347 -23.78646,-1.30139 -35.78125,-2.9375 -17.16766,-3.67561 -34.8777,-8.56892 -55.34375,-19.3125 -42.99461,-20.97587 -77.54355,-52.37773 -104.40625,-93.28125 -0.0492,-0.0749 -0.10711,-0.14378 -0.15625,-0.21875 z"
        id="path3917"
        sodipodi:nodetypes="cccccccccccsccc" />
     <path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
        id="path3919"
-       d="m 133.3438,169.6874 -0.0625,-23.4375 c -42.602864,8.17324 -55.817507,12.91264 -91.40625,23.4375 l 91.46875,0 z"
+       d="m 133.3438,169.69883 -0.0625,23.4375 C 90.678436,184.96309 77.463793,180.22369 41.87505,169.69883 z"
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.03543307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
   </g>
   <g
