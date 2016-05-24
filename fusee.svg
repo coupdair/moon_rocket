@@ -43,9 +43,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="292.48716"
-     inkscape:cy="938.71818"
+     inkscape:cy="910.14675"
      inkscape:document-units="px"
-     inkscape:current-layer="g3871"
+     inkscape:current-layer="g3867"
      showgrid="false"
      inkscape:window-width="1366"
      inkscape:window-height="719"
@@ -343,7 +343,7 @@
        id="path3771" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="slice1"
      id="g4185"
      inkscape:groupmode="layer"
@@ -414,7 +414,8 @@
      inkscape:groupmode="layer"
      id="g3885"
      inkscape:label="podes 1"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.77165353;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 304.875,63.875 c -11.81686,0.03473 -23.78646,1.301389 -35.78125,2.9375 -17.16766,3.675606 -34.8777,8.568919 -55.34375,19.3125 l 0.0312,2.65625 0,0.03125 -0.0312,2.65625 c 20.46605,10.74359 38.17609,15.63689 55.34375,19.3125 17.44696,2.3798 34.83701,3.98844 51.8125,2.125 l 0.15625,-2.5 c 15.55232,-0.0613 23.3619,-10.81481 23.375,-21.5625 l 0,-0.09375 c -0.0131,-10.747685 -7.82268,-21.501219 -23.375,-21.5625 l -0.15625,-2.5 C 315.60141,64.105177 310.2463,63.859212 304.875,63.875 z"
