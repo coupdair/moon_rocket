@@ -43,7 +43,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
      inkscape:cx="449.2926"
-     inkscape:cy="940.77186"
+     inkscape:cy="926.48615"
      inkscape:document-units="px"
      inkscape:current-layer="g3945"
      showgrid="false"
@@ -230,7 +230,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
        id="path3947"
-       d="M 474.4063,169.6894 584.4315,169.68895 474.4063,154.7191 z"
+       d="m 474.4063,169.6894 110.0252,-4.5e-4 C 501.8251,134.77404 498.23162,151.33725 474.4063,154.7191 z"
        style="fill:none;stroke:#000000;stroke-width:0.03543307;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
   </g>
   <g
